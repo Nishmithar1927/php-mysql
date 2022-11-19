@@ -1,7 +1,7 @@
 <?php
 /* Database credentials. Assuming you are running MySQL
 server with default setting (user 'root' with no password) */
-define('DB_SERVER', 'database-1.c5viqpzu7jyw.us-east-1.rds.amazonaws.com');
+define('DB_SERVER', 'database-2.ct3uwcoeokpt.ap-south-1.rds.amazonaws.com');
 define('DB_USERNAME', 'admin');
 define('DB_PASSWORD', 'cloudaws');
 define('DB_NAME', 'employees_db');
